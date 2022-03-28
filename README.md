@@ -30,3 +30,13 @@ The analysis of the election shows that:
 - The winner of the election was:
 Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 
+- The voter turnout for each county was:
+
+  - Jefferson produced 10.5% of voters, for a total of 38,855 voters.
+  - Denver produced 82.8% of voters, for a total of 306,055 voters.
+  - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+-The county with the largest voter turnout was:
+
+Denver, which produced 82.8% of voters, for a total of 306,055 vote.
+
+<img width="471" alt="election_result" src="https://user-images.githubusercontent.com/100812201/160319235-5ec761d4-9dd8-4587-b671-810c7d964f3d.png">
