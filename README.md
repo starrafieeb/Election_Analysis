@@ -40,3 +40,17 @@ Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 Denver, which produced 82.8% of voters, for a total of 306,055 vote.
 
 <img width="471" alt="election_result" src="https://user-images.githubusercontent.com/100812201/160319235-5ec761d4-9dd8-4587-b671-810c7d964f3d.png">
+
+
+
+# Election Audit Summary
+Definitely if we want to use this script for any elections in future we can do it by applying some changes in our script.
+For instance the very first change would be our files name here. With this code of line we can open another csv file to open and load our new data but we have to change the name of the folders for " Resources & election_results.csv" .
+
+<img width="555" alt="change1" src="https://user-images.githubusercontent.com/100812201/160319757-0915e0e1-c0f4-4398-af25-d4024a300234.png">
+
+Also, this election was for counties, we can use this code by apply some changes for states too. However we have to change anything that is related to county to state. 
+
+<img width="578" alt="CHANGE2" src="https://user-images.githubusercontent.com/100812201/160321017-0e49756a-9786-4b41-ac96-6c4a5439b4b2.PNG">
+
+
